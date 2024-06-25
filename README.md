@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pavanrd10
 - 👀 I’m interested in growing
 - 🌱 I’m currently learning B.E in computer science 
-
+- 👀 this is my Collage Github for my orginal profile Pavankumarrd10
 
 <!---
 Pavanrd10/Pavanrd10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
